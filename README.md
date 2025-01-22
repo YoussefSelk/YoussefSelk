@@ -1,14 +1,24 @@
 # Hi there, I'm Youssef Selk! 👋
 
-📍 Maroc | 📞 XXXXXXXXXX | 📧 Private !
+📍 France | 📞 XXXXXXXXXX | 📧 Private !
 
 I'm a passionate software developer with a focus on building robust web applications. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🎓 **Education**:
-  - **DUT Génie Informatique** from Ecole Supérieure de Technologie - Kenitra (Majorant de la Promotion, 01/2024)
-  - **Baccalauréat Science Physique Chimie** from Lycée Mohamad Jamal Dora - Salé (Majorant de la Promotion, 01/2022)
+
+  - **Diplôme d'Ingénieur en Informatique**  
+    *EILCO (École d'Ingénieurs du Littoral Côte d'Opale)* - Calais, France  
+
+  - **DUT en Génie Informatique**  
+    *École Supérieure de Technologie*, Kenitra, Morocco  
+    *(Majorant de la Promotion, 01/2024)*  
+  
+  - **Baccalauréat en Sciences Physiques et Chimiques**  
+    *Lycée Mohamed Jamal Dora*, Salé, Morocco  
+    *(Majorant de la Promotion, 01/2022)*  
+
 - 💼 **Experience**:
   - **Internship** at UIR (Université International Rabat) - Developed "Système de Pointage avec Code QR"
 - 💡 **Interests**: Love exploring new technologies, participating in hackathons, and contributing to open-source projects.
