@@ -314,8 +314,6 @@ Interested in Full-Stack Development · DevOps · Cybersecurity roles
 
 [![Email](https://img.shields.io/badge/Email-youssefselk.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefselk.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Selk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-selk-0b7211248/)
-[![Phone](https://img.shields.io/badge/Phone-%2B33%207%2068%2083%2043%2099-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33768834399)
-
 ---
 
 _"Turning ideas into scalable, secure software solutions"_
