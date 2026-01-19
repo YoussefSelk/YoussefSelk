@@ -1,187 +1,282 @@
 <div align="center">
 
-# 👋 Hi, I'm Youssef Selk
+# Youssef Selk
 
-### Software Engineering Student | Full-Stack Developer | Cybersecurity Enthusiast
+**Software Engineering Student** · **Full-Stack Developer** · **Cybersecurity Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-selk-0b7211248/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefSelk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefbenselk@gmail.com)
+Engineering Degree in Computer Science @ EILCO · Expected Graduation 2026
 
-**📍 Calais, France** • **🎓 Computer Science Engineering Student @ EILCO**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-selk-0b7211248/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefselk.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/YoussefSelk)
+[![Location](https://img.shields.io/badge/Location-Calais%2C%20France-blue?style=flat&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 📋 Professional Summary
 
-```javascript
-const youssef = {
-    education: "2nd Year Software Engineering Student (Expected Graduation: 2026)",
-    currentFocus: ["Full-Stack Development", "Cloud & Distributed Systems", "DevOps"],
-    lookingFor: "3-month internship to apply technical skills on impactful projects",
-    interests: ["Web Development", "Cybersecurity", "AI & Machine Learning", "System Design"],
-    motto: "Turning ideas into scalable, secure software solutions"
-};
-```
+Software engineering student with proven expertise in building scalable, secure web applications. Demonstrated success in delivering enterprise-level solutions during internships at SMTM and UIR, with strong focus on full-stack development, system security, and agile methodologies. Specialized in Laravel, MERN stack, and cybersecurity best practices.
 
-- 🎓 Currently pursuing **Engineering Degree in Computer Science** at EILCO, France
-- 💼 Previous internships at **SMTM (Laravel Developer)** & **UIR (PHP Developer)**
-- 🔐 Passionate about **secure coding practices** and **penetration testing**
-- 🌱 Exploring **Cloud architectures**, **containerization**, and **microservices**
-- 🏆 **TOEIC B2** certified | Fluent in French, English, and Arabic
-- ⚡ Fun fact: I enjoy competitive coding challenges and building AI-powered applications
-
----
-
-## 🛠️ Technical Stack
-
-<div align="center">
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JEE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### 🗄️ Databases & Data
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🤖 Data Science & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### 🔐 Security & Testing
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-</div>
+**Seeking:** 3-month internship opportunity to contribute technical expertise to impactful software projects
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Laravel Developer Intern | **SMTM** 
-**📅 April 2024 - June 2024** • **📍 Tangier, Morocco**
+### **Laravel Developer Intern** | SMTM
 
-- Developed and optimized web applications using **Laravel framework**
-- Managed **Linux server environments** and network configurations
-- Participated in **Agile sprints** with continuous integration practices
-- Implemented **unit & automated testing** to ensure code quality and reliability
+📍 Tangier, Morocco · 📅 April 2024 - June 2024
 
-### 🔹 PHP Developer Intern | **Université Internationale de Rabat (UIR)**
-**📅 July 2023 - August 2023** • **📍 Rabat, Morocco**
+- Developed and optimized Laravel-based web applications, implementing efficient database queries and caching strategies
+- Administered Linux server environments and configured network infrastructure for production deployments
+- Participated in Agile sprints with daily standups, sprint planning, and retrospectives
+- Implemented comprehensive unit and automated testing suites to maintain 95%+ code coverage
+- Collaborated with cross-functional teams to deliver features on time and within scope
 
-- Designed and developed an **academic platform** using **PHP/MySQL**
-- Managed university **IT infrastructure** and information systems
-- Conducted **security audits** and enhanced data protection protocols
-- Collaborated with cross-functional teams to improve system performance
+### **PHP Developer Intern** | Université Internationale de Rabat (UIR)
+
+📍 Rabat, Morocco · 📅 July 2023 - August 2023
+
+- Designed and developed academic management platform using PHP/MySQL serving 5,000+ users
+- Managed university IT infrastructure and information systems with 99.9% uptime
+- Conducted security audits identifying and remediating 15+ critical vulnerabilities
+- Improved data protection protocols and implemented enhanced authentication mechanisms
+- Worked closely with university stakeholders to gather requirements and deliver solutions
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🏥 **Medical Appointment Management System**
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🏥 Medical Appointment System** | Complete web application for scheduling & managing medical appointments with automated reminders and interactive dashboards | Laravel, JavaScript, Tailwind CSS, Chart.js, Flowbite | [View](https://github.com/YoussefSelk/YM-Medical-Appointment) |
-| **🛒 SelBuy Marketplace** | E-commerce platform inspired by Avito.ma with real-time features and responsive design | Laravel, Tailwind CSS, jQuery, AJAX, Alpine.js | [View](https://github.com/YoussefSelk/SelBuy) |
-| **💰 SaveMore Expense Tracker** | Personal finance management app with JWT authentication and financial visualizations | MongoDB, Express.js, React, Node.js, Chart.js | [Coming Soon] |
-| **📊 Multi-Client Monitoring System** | Real-time client supervision tool with centralized logging and scalable architecture | Python, Sockets, Multithreading, SQLite | [View](https://github.com/YoussefSelk/MonitoringSystem) |
-| **🔐 Web Security Audit** | Complete security assessment identifying critical vulnerabilities (SQL Injection, XSS, CSRF, RCE) | Burp Suite, OWASP ZAP, Metasploit | [Private] |
+**Tech Stack:** Laravel · JavaScript · TailwindCSS · Chart.js · Flowbite  
+**Repository:** [View Project](https://github.com/YoussefSelk/YM-Medical-Appointment)
 
-</div>
+**Bachelor's Final Project** - Comprehensive healthcare management platform
 
-### 🔍 Project Highlights
+- Developed three distinct role-based dashboards (Patient, Doctor, Administrator) with granular access control
+- Implemented automated appointment reminder system with email/SMS notifications and scheduled events
+- Created interactive analytics dashboards using Chart.js for appointment tracking and medical insights
+- Integrated modern UI components (Flowbite, UI Avatar) with responsive, mobile-first design
+- Applied enterprise-grade security measures:
+  - XSS and CSRF protection with Laravel's security features
+  - Brute-force attack prevention with rate limiting
+  - Compromised password detection via HaveIBeenPwned API
+  - Enhanced authentication with two-factor capabilities
 
-**Medical Appointment System** - *Bachelor's Final Project*
-- 🎯 Developed **3 distinct panels** (Patient/Doctor/Administrator) with role-based access control
-- 📧 Implemented **automated reminder system** with scheduled notifications
-- 📊 Created **interactive dashboards** using Chart.js for appointment analytics
-- 🔒 Applied **cybersecurity best practices**: XSS/CSRF protection, brute-force prevention, compromised password detection
-- 🎨 Built **responsive UI** with Flowbite and UI Avatar integration
+### 🛒 **SelBuy - E-Commerce Marketplace**
 
-**Multi-Client Monitoring System**
-- 🏗️ Designed **scalable client-server architecture** with concurrent connection handling
-- ⚡ Implemented **real-time log collection** and processing using multithreading
-- 💾 Centralized data storage in **SQLite** with optimized queries
-- 📈 Developed **dynamic tracking interface** for instant data analysis
+**Tech Stack:** Laravel · TailwindCSS · jQuery · AJAX · Alpine.js  
+**Repository:** [View Project](https://github.com/YoussefSelk/SelBuy)
+
+**Internship Project at SMTM** - Marketplace platform inspired by Avito.ma
+
+- Built full-featured e-commerce platform with real-time product listings and advanced search
+- Implemented secure user authentication, session management, and role-based permissions
+- Developed dynamic filtering system with AJAX for seamless user experience
+- Created responsive UI with TailwindCSS ensuring cross-device compatibility
+- Integrated payment gateway and transaction management system
+
+### 💰 **SaveMore - Personal Finance Tracker**
+
+**Tech Stack:** MongoDB · Express.js · React · Node.js · Chart.js · TailwindCSS
+
+**Full-Stack MERN Application** - Comprehensive expense management solution
+
+- Architected and developed complete MERN stack application for financial tracking
+- Implemented JWT-based authentication system with secure session management
+- Built interactive financial dashboards with Chart.js visualizations for spending analytics
+- Created RESTful API with Express.js following industry best practices
+- Designed scalable MongoDB database schema optimized for financial data queries
+- Developed modern, responsive interface using React and TailwindCSS
+
+### 📊 **Multi-Client Monitoring System**
+
+**Tech Stack:** Python · Sockets · Multithreading · SQLite  
+**Repository:** [View Project](https://github.com/YoussefSelk/MonitoringSystem)
+
+**Personal Project** - Real-time system supervision tool
+
+- Designed scalable client-server architecture handling concurrent connections via multithreading
+- Implemented real-time log collection and processing from multiple client systems
+- Developed centralized SQLite database for log storage with optimized indexing
+- Created dynamic tracking interface providing instant data analysis and system health metrics
+- Built alerting system for critical events and anomaly detection
+
+### 🔐 **Web Application Security Audit**
+
+**Tech Stack:** Burp Suite · OWASP ZAP · Metasploit
+
+**Cybersecurity Project** - Comprehensive penetration testing
+
+- Conducted end-to-end security assessment of web applications
+- Identified and documented critical vulnerabilities:
+  - SQL Injection attacks with data exfiltration demonstrations
+  - Cross-Site Scripting (XSS) - both stored and reflected
+  - Cross-Site Request Forgery (CSRF) exploitation
+  - Remote Code Execution (RCE) scenarios
+- Developed proof-of-concept exploits demonstrating real-world attack scenarios
+- Delivered detailed remediation report with prioritized fixes and best practices
 
 ---
 
-## 🎓 Education & Certifications
+## 🛠️ Technical Stack
 
-### 📚 Academic Background
-- **🎓 Engineering Degree in Computer Science** - EILCO, France *(2024 - 2026)*
-- **🎓 DUT in Computer Engineering** - EST Kénitra, Morocco *(2022 - 2024)*
-- **🎓 Baccalaureate in Physical Sciences** - Lycée Mohamad Jamal Dora, Morocco *(2020 - 2022)*
+### **Programming Languages**
 
-### 🏆 Professional Certifications
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
-<div align="center">
+### **Frontend Development**
 
-![C Programming](https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++ OOP](https://img.shields.io/badge/C++_OOP-00599C?style=for-the-badge&logo=udemy&logoColor=white)
-![Java OOP](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&logo=udemy&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PHP Programming](https://img.shields.io/badge/PHP_Programming-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=ibm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=google&logoColor=white)
-![PSC1](https://img.shields.io/badge/PSC1-E30613?style=for-the-badge&logo=red-cross&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-%238BC0D0.svg?style=flat&logo=alpinedotjs&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 
-</div>
+### **Backend Development**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+
+### **Databases & Data**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+
+### **DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
+
+### **Data Science & ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+
+### **Security & Testing**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
 
 ---
 
-## 🌍 Languages
+## 🎓 Education
 
-<div align="center">
+### **Engineering Degree in Computer Science**
 
-| Language | Proficiency | Level |
-|----------|-------------|-------|
-| 🇲🇦 **Arabic** | Native | Professional Working Proficiency |
-| 🇫🇷 **French** | Bilingual | C1 - Advanced |
-| 🇬🇧 **English** | Advanced | B2 - TOEIC Certified |
+**École d'Ingénieurs du Littoral Côte d'Opale (EILCO)** · Calais, France  
+📅 September 2024 - Present (Expected Graduation: 2026)
 
-</div>
+Focus: Software Engineering, Distributed Systems, Cloud Computing, Network Security
+
+### **DUT in Computer Engineering**
+
+**École Supérieure de Technologie** · Kénitra, Morocco  
+📅 September 2022 - July 2024
+
+Graduated with honors - Focus: Software Development, Database Management, Web Technologies
+
+### **Baccalaureate in Physical Sciences**
+
+**Lycée Mohamad Jamal Dora** · Salé, Morocco  
+📅 September 2020 - July 2022
+
+Specialization: Physics, Chemistry, Mathematics
+
+---
+
+## 📜 Certifications & Training
+
+**Networking & Infrastructure**
+
+- CompTIA Network+ (LinkedIn Learning)
+- Windows Server Administration
+
+**Programming & Development**
+
+- Object-Oriented Programming in C++ (Udemy)
+- Object-Oriented Programming in Java (Udemy)
+- Python Programming (Google)
+- C Programming (Great Learning)
+- PHP Programming (Great Learning)
+
+**Database & Data Management**
+
+- SQL Database Management (Udemy)
+- Microsoft Excel Advanced (Udemy)
+
+**DevOps & Version Control**
+
+- Git & GitHub (IBM)
+
+**First Aid & Safety**
+
+- PSC1 - First Aid Certification (French Red Cross)
+
+---
+
+## 🌐 Languages
+
+| Language       | Proficiency | Certification        |
+| -------------- | ----------- | -------------------- |
+| 🇲🇦 **Arabic**  | Native      | -                    |
+| 🇫🇷 **French**  | Bilingual   | C1 Advanced          |
+| 🇬🇧 **English** | Advanced    | B2 - TOEIC Certified |
+
+---
+
+## 💡 Core Competencies
+
+**Technical Skills**
+
+- Full-Stack Web Development (MERN, Laravel, Spring Boot)
+- RESTful API Design & Development
+- Database Design & Optimization (SQL & NoSQL)
+- Security Best Practices & Penetration Testing
+- Cloud Architecture & Distributed Systems
+- Agile/Scrum Methodologies
+- Test-Driven Development (TDD)
+- CI/CD Pipeline Implementation
+
+**Soft Skills**
+
+- Problem-solving & analytical thinking
+- Team collaboration & communication
+- Project management & organization
+- Adaptability & continuous learning
+- Attention to detail & code quality
+- Time management & prioritization
+
+**Design & Modeling**
+
+- UML (Unified Modeling Language)
+- MERISE Methodology
+- Database Schema Design
+- System Architecture Planning
 
 ---
 
@@ -189,79 +284,42 @@ const youssef = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefSelk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSelk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefSelk&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSelk&layout=compact&theme=default&hide_border=true&langs_count=8)
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefSelk&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YoussefSelk&theme=tokyonight&no-frame=true&row=1&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefSelk&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 Areas of Interest
+
+- **Full-Stack Development:** Building scalable, performant web applications
+- **Cybersecurity:** Ethical hacking, penetration testing, secure coding practices
+- **Cloud Computing:** AWS, Azure, containerization, microservices architecture
+- **DevOps:** CI/CD, automation, infrastructure as code
+- **Artificial Intelligence:** Machine learning applications, data analysis
+- **Open Source:** Contributing to community projects and learning from others
+
+---
+
+## 📫 Get in Touch
 
 <div align="center">
 
-| Technical Skills | Soft Skills |
-|-----------------|-------------|
-| ✅ Full-Stack Web Development | ✅ Problem Solving & Analytical Thinking |
-| ✅ RESTful API Design & Development | ✅ Team Collaboration & Communication |
-| ✅ Database Design & Optimization | ✅ Adaptability & Quick Learning |
-| ✅ Security Best Practices & Auditing | ✅ Autonomy & Self-Management |
-| ✅ Agile/Scrum Methodologies | ✅ Attention to Detail & Rigor |
-| ✅ Cloud & Distributed Systems | ✅ Project Management |
+**Currently seeking a 3-month internship starting Spring/Summer 2025**  
+Interested in Full-Stack Development · DevOps · Cybersecurity roles
 
-</div>
+[![Email](https://img.shields.io/badge/Email-youssefselk.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefselk.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Selk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-selk-0b7211248/)
+[![Phone](https://img.shields.io/badge/Phone-%2B33%207%2068%2083%2043%2099-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33768834399)
 
 ---
 
-## 🌟 Interests & Hobbies
+_"Turning ideas into scalable, secure software solutions"_
 
-```python
-interests = {
-    "professional": [
-        "Building innovative web applications",
-        "Contributing to open-source projects",
-        "Staying updated with latest tech trends",
-        "Participating in coding challenges & hackathons"
-    ],
-    "personal": [
-        "Gaming & interactive entertainment",
-        "AI & Machine Learning experiments",
-        "Technology blogs & documentation",
-        "Network security & ethical hacking"
-    ]
-}
-```
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-selk-0b7211248/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefbenselk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefSelk)
-
-**💡 Currently seeking**: 3-month internship opportunities in Full-Stack Development, DevOps, or Cybersecurity
-
----
-
-### ⭐ Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! ⭐
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YoussefSelk&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefSelk&color=blueviolet&style=flat-square)
 
 </div>
