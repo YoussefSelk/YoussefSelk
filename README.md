@@ -25,7 +25,7 @@ name: Youssef Selk
 location: Calais, France 🇫🇷
 education: Engineering Degree in Computer Science @ EILCO (2024 - 2026)
 role: Full-Stack Developer & Cybersecurity Enthusiast
-seeking: 3-month internship (Spring/Summer 2025)
+seeking: 3-month internship (Spring/Summer 2026)
 languages: [Arabic (Native), French (C1), English (B2 TOEIC)]
 interests: [Full-Stack Dev, Ethical Hacking, Cloud, DevOps, AI/ML]
 motto: "Turning ideas into scalable, secure software solutions"
@@ -209,7 +209,7 @@ motto: "Turning ideas into scalable, secure software solutions"
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YoussefSelk&show_icons=true&theme=react&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefSelk&theme=react&hide_border=true&border_radius=12&background=0d1117" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=YoussefSelk&theme=react&hide_border=true&border_radius=12&background=0d1117" width="49%" />
 
 <br>
 
@@ -236,8 +236,6 @@ motto: "Turning ideas into scalable, secure software solutions"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefSelk/YoussefSelk/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/YoussefSelk/YoussefSelk/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-> ⬆️ **To enable the snake animation**, add the [GitHub Action workflow](#-snake-animation-setup) below to your profile repo.
 
 </div>
 
@@ -353,46 +351,11 @@ Code Review
 
 ---
 
-## 🐍 Snake Animation Setup
-
-To enable the contribution snake animation, create `.github/workflows/snake.yml` in your **profile repo** (`YoussefSelk/YoussefSelk`):
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YoussefSelk
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After the first workflow run, the snake animation will appear automatically.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
-**Currently seeking a 3-month internship · Spring/Summer 2025**  
+**Currently seeking a 3-month internship · Spring/Summer 2026**  
 Full-Stack Development · DevOps · Cybersecurity
 
 [![Email](https://img.shields.io/badge/youssefselk.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefselk.dev@gmail.com)
