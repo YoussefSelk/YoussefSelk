@@ -4,7 +4,7 @@
 
 **Software Engineering Student** · **Full-Stack Developer** · **Cybersecurity Enthusiast**
 
-Engineering Degree in Computer Science @ EILCO · Expected Graduation 2026
+Engineering Degree in Computer Science @ EILCO · Expected Graduation 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-selk-0b7211248/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefselk.dev@gmail.com)
