@@ -7,7 +7,7 @@
 
 Computer Engineering Student @ EILCO (2024-2027)  
 Full-Stack Developer focused on secure and scalable systems  
-Available for a **12-month Alternance)**
+Available for a **(12-month Alternance)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-selk-0b7211248/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefselk.dev@gmail.com)
